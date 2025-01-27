@@ -25,6 +25,7 @@ MovieBuffs is a dynamic Android app that allows users to explore and discover mo
 | **List View**               | **Detail View**             |
 |------------------------------|-----------------------------|
 | ![List View](screenshots/list_view.png) | ![Detail View](screenshots/detail_view.png) |
+!(screenshots/screenshot.png)
 
 ---
 
